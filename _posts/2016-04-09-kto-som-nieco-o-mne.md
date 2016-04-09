@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2016-04-09T12:11:22.815Z'
-dateModified: '2016-04-09T12:10:58.489Z'
+datePublished: '2016-04-09T12:21:51.464Z'
+dateModified: '2016-04-09T12:21:30.095Z'
 title: Kto som - niečo o mne
 author: []
+sourcePath: _posts/2016-04-09-kto-som-nieco-o-mne.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-kto-som-nieco-o-mne.md
-published: true
 url: kto-som-nieco-o-mne/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Kto som - niečo o mne
