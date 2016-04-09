@@ -5,24 +5,24 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: Ako prišiel nápad
-datePublished: '2016-04-09T11:57:57.422Z'
-dateModified: '2016-04-09T11:57:32.699Z'
-title: ''
+description: ''
+datePublished: '2016-04-09T12:23:18.969Z'
+dateModified: '2016-04-09T12:00:30.722Z'
+title: Ako prišiel nápad
 author: []
+sourcePath: _posts/2016-04-09-ako-prisiel-napad.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-ako-prisiel-napad.md
-published: true
 url: ako-prisiel-napad/index.html
 _type: Article
 
 ---
-**Ako prišiel nápad**
+# Ako prišiel nápad
 
 Nápad na túto knihu som dostala zo silnej potreby naučiť moju dvojročnú dcéru pekne sa správať k nášmu psíkovi.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2ce50ef6-8f97-4f74-834c-e7a145ef7cc7.jpg)
