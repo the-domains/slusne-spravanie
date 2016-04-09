@@ -1,0 +1,28 @@
+name: Slušné správanie
+favicon: null
+layout_spectrum: 0.20780906733125448
+typography_spectrum: 0.7400308276992291
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.6313182304147631
+  lightness: 0.8515998471993953
+  saturation: 0.39579543145373464
+  rhythmicContrast: 0.19223883096128702
+purpose: []
