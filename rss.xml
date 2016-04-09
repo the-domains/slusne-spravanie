@@ -4,8 +4,15 @@
         <description><![CDATA[Slušné správanie - kniha pre deti]]></description>
         <link>https://thegrid.ai/slusne-spravanie/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Apr 2016 12:23:10 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2016 12:23:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/slusne-spravanie/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Ako prišiel nápad]]></title>
+            <description><![CDATA[<article><h1>Ako prišiel nápad</h1><p></p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aeb79e2d5bdea0945ea71d6e32c1f58f931cb2d5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/slusne-spravanie/ako-prisiel-napad/index.html</link>
+            <guid isPermaLink="false">13e34e05-1830-461f-8a7c-04cc67ee7408</guid>
+            <pubDate>Sat, 09 Apr 2016 12:23:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Ako sa nápad vizualizoval v mojej hlave]]></title>
             <description><![CDATA[<article><h1>Ako sa nápad vizualizoval v mojej hlave</h1><p>Vedela som, že nechcem ďalšiu príbehovú knihu. Potrebovala som niečo nie pre radosť, ale pre praktickú potrebu. Knihu s dobrou použiteľnosťou. (Dobrou použiteľnosťou - usability - sa živím a bez toho neviem existovať.) Chcela som teda názorne ukázať čo možno najviac situácií s negatívnym dopadom, ktoré robí a ako sa dajú pretransofmovať do pozítívneho. Takže som hneď videla otvorenú knihu, kde na ľavej strane je obrázok s negatívnou situáciou a na pravej strane obrázok s pozítívnou situáciou.</p></article>]]></description>
@@ -33,13 +40,6 @@
             <link>https://thegrid.ai/slusne-spravanie/od-napadu-k-realizacii-tie-spravne-motivy/index.html</link>
             <guid isPermaLink="false">1d4ae015-2d07-4a13-a080-5a9bbd995b16</guid>
             <pubDate>Sat, 09 Apr 2016 12:11:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Ako prišiel nápad</p>]]></description>
-            <link>https://thegrid.ai/slusne-spravanie/ako-prisiel-napad/index.html</link>
-            <guid isPermaLink="false">13e34e05-1830-461f-8a7c-04cc67ee7408</guid>
-            <pubDate>Sat, 09 Apr 2016 11:57:57 GMT</pubDate>
         </item>
     </channel>
 </rss>
