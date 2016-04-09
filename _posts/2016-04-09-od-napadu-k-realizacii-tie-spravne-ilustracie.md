@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-09T12:11:22.972Z'
-dateModified: '2016-04-09T12:08:47.829Z'
+description: 'V mojom detstve hrala dobrá ilustrácia dôležitejšiu rolu, než text samotný. Ak sa mi ilustrácia nepáčila, rozprávku som nebola veľmi ochotná od mamy počúvať alebo sama čítať.'
+datePublished: '2016-04-09T12:22:39.057Z'
+dateModified: '2016-04-09T12:22:36.038Z'
 title: Od nápadu k realizácii- tie správne ilustrácie
 author: []
+sourcePath: _posts/2016-04-09-od-napadu-k-realizacii-tie-spravne-ilustracie.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-09-od-napadu-k-realizacii-tie-spravne-ilustracie.md
-published: true
 url: od-napadu-k-realizacii-tie-spravne-ilustracie/index.html
 _type: Article
 
