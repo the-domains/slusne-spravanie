@@ -1,25 +1,25 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-04-09T12:11:23.088Z'
-dateModified: '2016-04-09T12:04:04.693Z'
+description: 'Kedže mám tendenciu robiť veci dokonale a v mnohom som perfekcionista (bojujem proti tomu :-D), rozmýšľala som o to, aký to bude mať reálny dopad na deti… Hlavne zobrazenie negatívnej situácie. Predsa len som aj ja zvyknutá na bežné knihy pre deti, že v nich vidím prevažne vysmiate tváre, všetko je dokonalé, všetci sú šťastní. Sem tam sa objaví utrápený Svrček alebo tučniačik Pingu. A tak som sa začala pýtať detských psychológov.'
+datePublished: '2016-04-09T12:21:58.006Z'
+dateModified: '2016-04-09T12:20:51.757Z'
+title: Moje obavy
+author: []
+sourcePath: _posts/2016-04-09-moje-obavy.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-title: Moje obavy
-author: []
-sourcePath: _posts/2016-04-09-moje-obavy.md
-published: true
 url: moje-obavy/index.html
-_type: Article
+_type: WebPage
 
 ---
 # Moje obavy
